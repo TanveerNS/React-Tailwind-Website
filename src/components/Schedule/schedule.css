@@ -1,0 +1,9 @@
+.sc1{
+    transition: all 0.3s ease-in-out;
+}
+.scal{
+    transition: all 0.3s ease-in-out;
+}
+.sc1:hover .scal{
+    scale: 0.8;
+} 
